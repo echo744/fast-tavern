@@ -1,5 +1,7 @@
 # fast-tavern
 
+**Repo**: [Lianues/fast-tavern](https://github.com/Lianues/fast-tavern)
+
 fast-tavern 是一个**与框架无关**的“提示词组装与调试引擎（prompt engine）”。
 
 它以 `st-api-wrapper` 的**新格式字段**为准，把：

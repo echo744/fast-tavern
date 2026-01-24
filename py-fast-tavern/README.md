@@ -1,5 +1,7 @@
 ## fast-tavern（Python 版）
 
+**Repo**: [Lianues/fast-tavern](https://github.com/Lianues/fast-tavern)
+
 这是主项目 `fast-tavern` 的 **Python 移植版**，目标是对齐 TypeScript 实现的行为（提示词组装与多阶段调试输出）。
 
 ### 安装（开发期）
